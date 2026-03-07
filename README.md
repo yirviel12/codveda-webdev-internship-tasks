@@ -17,3 +17,5 @@ This repository contains all the tasks that I have been assigned during my inter
 
 Fundamental frontend development stuff focused on layout, styling and responsiveness.
 - Task one: I was tasked to create a static website with HTML for structure and CSS for styling, ensuring basic responsiveness using media queries. The website was to contain a homepage, about, and a contact page with a navigation bar, footer and images.
+
+- Task two: I was tasked to create a single-paged portfolio with HTML for structure and CSS for styling, while adding simple animations, custom fonts and colors. The website was to contain information, projects, skills and contact pages.
